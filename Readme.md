@@ -2,6 +2,7 @@
 
 * Студент: [Olga  Riabinina](https://up.htmlacademy.ru/htmlcss/35/user/2189695).
 * Наставник: `Алмаз Хабибуллин`. https://htmlacademy.ru/profile/id700495
+* Наставник: `Алмаз 🐰 Хабибуллин`. https://htmlacademy.ru/profile/id700495
 
 ---
 
