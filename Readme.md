@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Olga  Riabinina](https://up.htmlacademy.ru/htmlcss/35/user/2189695).
-* Наставник: `Алмаз Хабибуллин`.
+* Наставник: `Алмаз Хабибуллин`. https://htmlacademy.ru/profile/id700495
 
 ---
 
